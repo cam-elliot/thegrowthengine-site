@@ -19,7 +19,7 @@ import FractionalLeadership from "@/pages/services/fractional-leadership";
 import RevenueRecruitment from "@/pages/services/revenue-recruitment";
 import { useAnalytics } from "./hooks/use-analytics";
 import { initGA } from "./lib/analytics";
-import NotFound from "./pages/NotFound";
+import NotFound from "@/pages/NotFound"
 
 import PerformanceMonitor from "./components/performance-monitor";
 
